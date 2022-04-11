@@ -4,3 +4,6 @@ a ZSTI wybrałem z powodu wysokiej zdawalności i dobrych wynikółw w rankingac
 # **Co Ci się podoba w ZSTI?**
 > W ZSTI poboba mi się to że pogłębiam swoje zainteresowania komputerami 
 > i dodatkowo uczę się wielu ważnych informacji.
+# **C zmieniłbyś w ZSTI?**
+> Jedyna rzecz którą zmieniłbym z tej szkole to mniejsze skupienie się na przedmiotach 
+> ogólnych i większe na przedmiotach zawodowych.
